@@ -1,0 +1,31 @@
+Survey Question: What are your biggest challenges using our project management tool? 
+
+Response 1: The mobile app is really slow and crashes when I try to upload files.  Also, I can't find the search function easily.
+
+Response 2: I love the interface but wish we had better reporting features. It's hard to show progress to stakeholders without exporting everything to Excel.
+
+Response 3: Notifications are overwhelming!  I get pinged for everything.  Need better filters. 
+
+Response 4: The learning curve was steep for my team. We need better onboarding tutorials or a help center.
+
+Response 5: Integration with Slack would be amazing. Right now I'm constantly switching between apps.
+
+Response 6: I can't customize dashboards enough. I want to see only what's relevant to my role.
+
+Response 7: Mobile app needs work - it's buggy and missing key features like commenting.
+
+Response 8: Love the collaboration features but the pricing is confusing for adding new team members.
+
+Response 9: Search is terrible.  I can never find old projects or files quickly.
+
+Response 10: More integrations please! Google Drive, Salesforce, etc.  would make this perfect.
+
+Response 11: The notification settings are too complicated. I either get spammed or miss important updates.
+
+Response 12: Really want custom reporting and analytics. Current reports don't give me what I need for leadership meetings.
+
+Response 13: Onboarding was confusing - took me weeks to figure out basic features.
+
+Response 14: Dashboard customization is limited. I want to add widgets or rearrange things.
+
+Response 15: Overall great tool but the mobile experience is frustrating compared to desktop. 
