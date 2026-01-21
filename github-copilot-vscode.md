@@ -51,7 +51,7 @@ Create a project status report template markdown file as the readme our for week
 Add in a table for tracking action items with columns for task, owner, due date, and status
 ```
 ```markdown
-Update to include the owner as "Team Lead" by default
+Add in the users profile picture and name in the table
 ```
 2. Accept and create new file
 3. Show how ready-to-use it is
