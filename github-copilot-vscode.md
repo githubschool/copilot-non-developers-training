@@ -13,8 +13,16 @@
 
 **Asking Questions:**
 1. Open Copilot Chat
-2. Type: ```"What is GitHub Copilot?"```
-3. Type: ```"How can GitHub Copilot help me with writing documentation?"```
+2. Type: 
+
+```markdown
+What is GitHub Copilot?
+```
+
+3. Type: 
+```markdown
+"How can GitHub Copilot help me with writing documentation?"
+```
 
 **Commands to demonstrate:**
 
@@ -35,7 +43,16 @@
 ## Demo 2: Create Markdown Content from Scratch
 
 **What to show:**
-1. In Copilot Chat: ```Create a project status report template markdown file as the readme our for weekly team updates including sections for progress, blockers, and next steps```
+1. In Copilot Chat: 
+```markdown
+Create a project status report template markdown file as the readme our for weekly team updates including sections for progress, blockers, and next steps
+```
+```markdown
+Add in a table for tracking action items with columns for task, owner, due date, and status
+```
+```markdown
+Update to include the owner as "Team Lead" by default
+```
 2. Accept and create new file
 3. Show how ready-to-use it is
 
@@ -48,7 +65,10 @@
 **What to show:**
 1. Open the messy notes file
 2. Select all the content
-3. In Copilot Chat, type: ```Format these meeting notes professionally with proper headings and structure```
+3. In Copilot Chat, type: 
+```markdown
+Format these meeting notes professionally with proper headings and structure
+```
 4. Show the transformed result
 5. Accept and apply
 
@@ -66,8 +86,14 @@
 **What to show:**
 1. Open the bullet point file
 2. Select content
-3. Try: ```"Expand this into a comprehensive onboarding guide with detailed descriptions for each step"```
-4. Or try: ```"Convert this into a table format with timeframes and responsible parties"```
+3. Try: 
+```markdown
+Expand this into a comprehensive onboarding guide with detailed descriptions for each step
+```
+4. Or try: 
+```markdown
+Convert this into a table format with timeframes and responsible parties
+```
 
 **Key Points:**
 - "Start with rough ideas, Copilot fills in details"
@@ -83,7 +109,10 @@
 **What to show:**
 1. Open the rough email
 2. Select content
-3. Try: ```"Make this email more professional and clear while keeping the urgency"```
+3. Try: 
+```markdown
+Make this email more professional and clear while keeping the urgency
+```
 4. Show before/after
 
 **Key Points:**
@@ -99,7 +128,10 @@
 
 **What to show:**
 1. Open the outline
-2. Ask: ```"Expand this into detailed step-by-step instructions with screenshots placeholders and tips for common issues"```
+2. Ask: 
+```markdown
+Expand this into detailed step-by-step instructions with screenshots placeholders and tips for common issues
+```
 3. Show comprehensive result
 
 **Key Points:**
@@ -114,7 +146,10 @@
 **What to show:**
 1. Make a change to any file
 2. Stage changes
-3. In Source Control, use sparkle icon or type: ```"Generate commit message"```
+3. In Source Control, use sparkle icon or type: 
+```markdown
+Generate commit message
+```
 4. Show the descriptive message Copilot creates
 
 **Key Points:**
