@@ -60,7 +60,7 @@ Add in the users profile picture and name in the table
 
 ## Demo 3: Clean Up Messy Meeting Notes (5 minutes)
 
-**File:** `demo-01-messy-meeting-notes.md`
+**File:** `demo-03-messy-meeting-notes.md`
 
 **What to show:**
 1. Open the messy notes file
@@ -81,7 +81,7 @@ Format these meeting notes professionally with proper headings and structure
 
 ## Demo 4: Expand Bullet Points into Documentation (5 minutes)
 
-**File:** `demo-02-bullet-points-to-format.md`
+**File:** `demo-04-bullet-points-to-format.md`
 
 **What to show:**
 1. Open the bullet point file
@@ -104,7 +104,7 @@ Convert this into a table format with timeframes and responsible parties
 
 ## Demo 5: Polish Rough Email Draft (5 minutes)
 
-**File:** `demo-03-email-draft-rough.md`
+**File:** `demo-05-email-draft-rough.md`
 
 **What to show:**
 1. Open the rough email
@@ -124,7 +124,7 @@ Make this email more professional and clear while keeping the urgency
 
 ## Demo 6: Flesh Out Process Documentation (5 minutes)
 
-**File:** `demo-04-process-documentation-outline.md`
+**File:** `demo-06-process-documentation-outline.md`
 
 **What to show:**
 1. Open the outline
