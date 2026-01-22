@@ -21,15 +21,15 @@
 
 ## Demo 1: Create Product Roadmap (5 minutes)
 
-**File:** `demo-06-product-roadmap.md`
+**File:** `demo-07-product-roadmap.md`
 
 ### Setup:
 1. Navigate to your repository on GitHub.com
 2. Click "Add file" > "Create new file"
-3. Name it: `demo-06-product-roadmap.md`
+3. Name it: `demo-07-product-roadmap.md`
 
 ### Demo Steps:
-1. Paste the rough roadmap content from demo-06
+1. Paste the rough roadmap content from demo-07
 2. Click the Copilot icon
 3. Ask: ```"Expand this into a detailed Q1 2026 product roadmap with specific initiatives, owners, success metrics, and monthly milestones"```
 4. Show the transformation
@@ -44,7 +44,7 @@
 
 ## Demo 2: Create Feature Requirement Document (7 minutes)
 
-**File:** `demo-07-feature-requirement.md`
+**File:** `demo-08-feature-requirement.md`
 
 ### Setup:
 1. Create a new issue in your repository
