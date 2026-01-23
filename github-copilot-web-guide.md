@@ -12,28 +12,33 @@
 
 ## Where to Find Copilot on GitHub.com
 
-1. **In Issues** - Click the Copilot icon when creating or editing an issue
-2. **In Pull Request descriptions** - Click the Copilot icon
-3. **In Discussions** - Click the Copilot icon when writing posts
-4. **In file editors** - Click the Copilot icon when creating/editing files on the web
+1. In Issues
+2. In Pull Request descriptions** - Click the Copilot icon
+3. In Discussions
+4. In file editors
 
 ---
 
-## Demo 1: Create Product Roadmap (5 minutes)
+## Demo 9: Create Product Roadmap (5 minutes)
 
-**File:** `demo-07-product-roadmap.md`
+**File:** `demo-09-product-roadmap.md`
 
 ### Setup:
 1. Navigate to your repository on GitHub.com
 2. Click "Add file" > "Create new file"
-3. Name it: `demo-07-product-roadmap.md`
+3. Name it: `demo-09-product-roadmap.md`
 
 ### Demo Steps:
-1. Paste the rough roadmap content from demo-07
-2. Click the Copilot icon
-3. Ask: ```"Expand this into a detailed Q1 2026 product roadmap with specific initiatives, owners, success metrics, and monthly milestones"```
-4. Show the transformation
-5. Accept and commit
+1. Add `demo-09-product-roadmap.md` to GitHub Copilot Chat
+2. Ask: 
+```markdown
+Expand this into a detailed Q1 2026 product roadmap with specific initiatives, owners, success metrics, and monthly milestones
+```
+3. Show the transformation
+4. Create issues based on these requirements: 
+```markdown
+Create GitHub issues for each user story with appropriate labels and assignees
+```
 
 ### Key Points:
 - "Turn rough ideas into executive-ready roadmaps"
@@ -42,20 +47,30 @@
 
 ---
 
-## Demo 2: Create Feature Requirement Document (7 minutes)
+## Demo 10: Create Feature Requirement Document (7 minutes)
 
-**File:** `demo-08-feature-requirement.md`
+**File:** `demo-10-feature-requirement.md`
 
 ### Setup:
 1. Create a new issue in your repository
 2. Title: "Feature Request: Team Collaboration Hub"
 
 ### Demo Steps:
-1. In the issue description, paste content from demo-07
+1. In the issue description, paste content from demo-10
 2. Click the Copilot icon
-3. Ask: ```"Create a comprehensive product requirements document with sections for problem statement, user stories, acceptance criteria, technical considerations, and success metrics"```
+3. Ask: 
+```markdown
+Create a comprehensive product requirements document with sections for problem statement, user stories, acceptance criteria, technical considerations, and success metrics
+```
 4. Show the detailed PRD that appears
-5. Can iterate: ```"Add a competitive analysis section"```
+5. Can iterate: 
+```markdown
+Add a competitive analysis section
+```
+6. Create an issue from the PRD: 
+```markdown
+Create a GitHub issue for this product requirements
+```
 
 ### Key Points:
 - "Go from idea to full PRD in minutes"
@@ -66,55 +81,6 @@
 ### Advanced Move:
 - Ask: "Create a table of user stories with columns for Story, Priority, Effort, and Status"
 - Show instant table generation!
-
----
-
-## Demo 3: Format Training Schedule as Table (5 minutes) 🔥
-
-### Setup:
-1. Create a new issue or file
-2. Title: "Q1 2026 Training Schedule"
-
-### Demo Steps:
-1. Paste the messy training notes
-2. Click Copilot icon
-3. Ask: ```"Convert this into a professional markdown table with columns for Course, Date, Time, Duration, Max Students, and Instructor"```
-4. Watch it create a perfect table!
-
-### Example Result:
-Shows something like:
-
-| Course | Date | Time | Duration | Max Students | Instructor |
-|--------|------|------|----------|--------------|------------|
-| Copilot Admin | Jan 14 | 9am EST | 4 hours | 16 | vfm2 |
-| Actions Training | Feb 10-11 | 9am EST | 8 hours (2 days) | 16 | magnus, sam |
-
-### Key Points:
-- "Stop manually formatting tables!"
-- "Perfect for schedules, comparisons, data"
-- "Copy-paste ready for docs or presentations"
-
-### Advanced Iteration:
-- "Add a column for MSFT IDs"
-- "Sort by date ascending"
-- "Group by instructor"
-
----
-
-## Demo 4: Create Issue with Copilot (5 minutes)
-
-### Demo Steps:
-1. Click "New Issue" in your repo
-2. Click the Copilot icon before typing anything
-3. Ask: ```"Create an issue for planning a quarterly team offsite including sections for objectives, proposed dates, location options, budget, and agenda items"```
-4. Watch Copilot draft the entire issue!
-5. Edit title if needed
-6. Submit
-
-### Key Points:
-- "Start from zero - Copilot structures everything"
-- "Never miss important sections"
-- "Faster project planning"
 
 ---
 
