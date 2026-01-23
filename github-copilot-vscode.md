@@ -141,7 +141,32 @@ Expand this into detailed step-by-step instructions with screenshots placeholder
 
 ---
 
-## Demo 7: Git Commit Messages (3 minutes)
+## Demo 7: Code to Documentation - Understanding SQL Queries (5 minutes)
+
+**File:** `demo-07-code-to-documentation.sql`
+
+**What to show:**
+1. Open the SQL query file
+2. Select the SQL code
+3. In Copilot Chat, type:
+```markdown
+Explain what this SQL query does in plain English for a business stakeholder
+```
+4. Show the readable explanation
+5. Follow up with:
+```markdown
+Create a one-paragraph summary I can add to a business report about this data
+```
+
+**Key Points:**
+- "Don't need to know SQL - Copilot translates technical code to plain English"
+- "Perfect for understanding queries from data analysts or engineers"
+- "Great for PMs working with technical teams"
+- "Can also work with API endpoints, config files, or scripts"
+
+---
+
+## Demo 8: Git Commit Messages (3 minutes)
 
 **What to show:**
 1. Make a change to any file
