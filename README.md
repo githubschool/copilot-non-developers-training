@@ -28,8 +28,9 @@ Complete step-by-step guides for hands-on learning:
 - **demo-04-bullet-points-to-format.md** - New employee onboarding bullet points to format
 - **demo-05-email-draft-rough.md** - Unpolished email draft
 - **demo-06-process-documentation-outline.md** - Incomplete process doc to expand
-- **demo-07-product-roadmap.md** - Rough product roadmap to detail
-- **demo-08-feature-requirement.md** - Feature requirement outline to elaborate
+- **demo-07-code-to-documentation.sql** - SQL code snippet to document
+- **demo-09-product-roadmap.md** - Rough product roadmap to detail
+- **demo-10-feature-requirement.md** - Feature requirement outline to elaborate
 
 
 **start-general/** - Getting started materials:
