@@ -27,12 +27,8 @@ What is GitHub Copilot?
 **Commands to demonstrate:**
 
 ```/explain```
-- Select any content: "What does this section mean?"
+- Select any content: "/explain"
 - Use case: Understanding technical docs or complex content
-
-```/doc```
-- In chat: "Create a documentation template for product requirements"
-- Use case: Starting new documentation from scratch
 
 ```/new```
 - Try: "/new create a customer feedback form template in markdown"
